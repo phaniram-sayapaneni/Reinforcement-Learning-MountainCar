@@ -19,4 +19,4 @@ Make random perturbations to actions and record the rewards and pick the best po
 
 Number of episodes played: 300
 
-[![Watch the video](https://github.com/phaniram-sayapaneni/Reinforcement-Learning-MountainCar/blob/master/Mountain_car_game.mp4)
+![Watch the video](https://github.com/phaniram-sayapaneni/Reinforcement-Learning-MountainCar/blob/master/Mountain_car_game.mp4)
